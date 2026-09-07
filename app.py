@@ -466,3 +466,6 @@ st.caption(
     "Data source: Our World in Data — "
     "Life expectancy vs. GDP per capita and population datasets."
 )
+
+
+# Lab 4 update: Dashboard version controlled using Git and GitHub.
